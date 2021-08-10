@@ -1,7 +1,7 @@
 Khalil's website
 ================
 
-My professional webiste
+My professional website
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter
      :target: https://github.com/pydanny/cookiecutter-django/
