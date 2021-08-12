@@ -121,3 +121,6 @@ CONTRIBUTORS.txt
 LICENSE 
 /.github/
 .gitattributes 
+docs 
+.idea 
+locale 
